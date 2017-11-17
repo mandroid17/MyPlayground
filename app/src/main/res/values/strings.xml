@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Playground</string>
+    <string name="textViewWelcome">Welcome to My Android Playground</string>
+    <string name="imageViewBuildings">Buildings</string>
+    <string name="textViewWebsite">Select a Website</string>
+    <string name="buttonGoogle">Google</string>
+    <string name="buttonDeveloperAndroid">Developer Android</string>
+    <string name="buttonBing">Bing</string>
+    <string name="textViewFruit">Select a Fruit Option</string>
+    <string name="rbuttonBanana">Banana</string>
+    <string name="rbuttonApple">Apple</string>
+    <string name="rbuttonOrange">Orange</string>
+    <string name="textViewSelection">Selected:</string>
+    <string name="textClockDigital">time</string>
+    <string name="textViewTime">Current time</string>
+    <string name="toggleButtonTest">Toggle</string>
+    <string name="checkBoxTest">CheckBox</string>
+    <string name="switchTest">Switch</string>
+    <string name="textViewSwitches">Examples of Widgets</string>
+    <string name="textViewSeek">Seek Bar</string>
+    <string name="textViewProgress">Progress Bar</string>
+    <string name="textViewSearch">Search</string>
+</resources>
